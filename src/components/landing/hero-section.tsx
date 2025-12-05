@@ -25,11 +25,11 @@ export function HeroSection() {
         Rahul Kaushik L
       </h1>
       <p className="mx-auto mt-4 max-w-2xl text-lg text-muted-foreground md:text-xl">
-        Passionate developer creating beautiful and functional web experiences. Welcome to my personal corner of the internet.
+        Computer Science and Business Systems Student
       </p>
       <div className="mt-8 flex justify-center gap-4">
         <Button asChild size="lg">
-          <Link href="#projects">View My Work</Link>
+          <Link href="#contact">Contact Me</Link>
         </Button>
         <Button asChild size="lg" variant="secondary">
           <a href="#" download="resume.pdf">Download Resume</a>

@@ -9,11 +9,14 @@ export function Header() {
           <span className="font-bold text-primary sm:inline-block">FolioForge</span>
         </Link>
         <nav className="flex items-center gap-6 text-sm">
+          <Link href="#about" className="hidden font-medium text-muted-foreground transition-colors hover:text-primary md:block">
+            About
+          </Link>
           <Link href="#skills" className="hidden font-medium text-muted-foreground transition-colors hover:text-primary md:block">
             Skills
           </Link>
-          <Link href="#projects" className="hidden font-medium text-muted-foreground transition-colors hover:text-primary md:block">
-            Projects
+          <Link href="#education" className="hidden font-medium text-muted-foreground transition-colors hover:text-primary md:block">
+            Education
           </Link>
           <Link href="#contact" className="hidden font-medium text-muted-foreground transition-colors hover:text-primary md:block">
             Contact
@@ -21,7 +24,7 @@ export function Header() {
         </nav>
         <div className="flex flex-1 items-center justify-end">
           <Button asChild>
-            <a href="mailto:your.email@example.com">Contact Me</a>
+            <a href="mailto:plrahulkaushik@gmai.com">Contact Me</a>
           </Button>
         </div>
       </div>

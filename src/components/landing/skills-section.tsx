@@ -1,7 +1,7 @@
 import { Badge } from '@/components/ui/badge';
 
 export function SkillsSection() {
-  const skills = [ "JavaScript", "TypeScript", "React", "Next.js", "Node.js", "HTML5", "CSS3", "Tailwind CSS", "Git", "Figma", "Firebase", "Zod"];
+  const skills = [ "C", "Python", "HTML", "CSS", "Basic JavaScript", "OOP", "DBMS", "Software Engineering", "Problem-Solving", "VS Code", "Git", "Canva"];
 
   return (
     <section id="skills" className="w-full bg-muted/50 py-16 md:py-24">
@@ -11,7 +11,7 @@ export function SkillsSection() {
             Skills & Expertise
           </h2>
           <p className="mt-4 text-lg text-muted-foreground">
-            My technical toolkit for building modern, responsive, and performant web applications.
+            My technical toolkit for building applications and solving problems.
           </p>
         </div>
         <div className="mt-12 flex flex-wrap justify-center gap-3 md:gap-4">
