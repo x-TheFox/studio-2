@@ -23,6 +23,42 @@
       "description": "Screenshot of Project Three",
       "imageUrl": "https://images.unsplash.com/photo-1512428559087-560fa5ceab42?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxtb2JpbGUlMjBhcHB8ZW58MHx8fHwxNzY0OTM1OTkwfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "mobile app"
+    },
+    {
+      "id": "gallery1",
+      "description": "Gallery image one",
+      "imageUrl": "https://images.unsplash.com/photo-1615184697985-c9bde1b07da7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhYnN0cmFjdCUyMGFydHxlbnwwfHx8fDE3NjQ4NjcyMDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract art"
+    },
+    {
+      "id": "gallery2",
+      "description": "Gallery image two",
+      "imageUrl": "https://images.unsplash.com/photo-1502905704466-2690947baeee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjaXR5JTIwc2t5bGluZXxlbnwwfHx8fDE3NjQ5MTY5OTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "city skyline"
+    },
+    {
+      "id": "gallery3",
+      "description": "Gallery image three",
+      "imageUrl": "https://images.unsplash.com/photo-1621846846625-f0bde2eb7c3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxuYXR1cmUlMjBsYW5kc2NhcGV8ZW58MHx8fHwxNzY0ODkyMTA0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "nature landscape"
+    },
+    {
+      "id": "gallery4",
+      "description": "Gallery image four",
+      "imageUrl": "https://images.unsplash.com/photo-1518436127045-3367819540bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bW9kZXJuJTIwYXJjaGl0ZWN0dXJlfGVufDB8fHx8MTc2NDg2NjE1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern architecture"
+    },
+    {
+      "id": "cert1",
+      "description": "Certificate one",
+      "imageUrl": "https://images.unsplash.com/photo-1643616802160-bcca2171c24a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxvZmZpY2lhbCUyMGNlcnRpZmljYXRlfGVufDB8fHx8MTc2NDkxNjA5Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "official certificate"
+    },
+    {
+      "id": "cert2",
+      "description": "Certificate two",
+      "imageUrl": "https://images.unsplash.com/photo-1663882597312-3f6c3741dfe8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxhd2FyZCUyMGRvY3VtZW50fGVufDB8fHx8MTc2NDk0MjUzM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "award document"
     }
   ]
 }

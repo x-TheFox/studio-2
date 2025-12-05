@@ -8,7 +8,7 @@ export function Header() {
         <Link href="/" className="mr-6 flex items-center space-x-2">
           <span className="font-bold text-primary sm:inline-block">FolioForge</span>
         </Link>
-        <nav className="flex items-center gap-6 text-sm">
+        <nav className="flex items-center gap-4 text-sm">
           <Link href="#about" className="hidden font-medium text-muted-foreground transition-colors hover:text-primary md:block">
             About
           </Link>
@@ -17,6 +17,12 @@ export function Header() {
           </Link>
           <Link href="#projects" className="hidden font-medium text-muted-foreground transition-colors hover:text-primary md:block">
             Projects
+          </Link>
+          <Link href="#gallery" className="hidden font-medium text-muted-foreground transition-colors hover:text-primary md:block">
+            Gallery
+          </Link>
+          <Link href="#certificates" className="hidden font-medium text-muted-foreground transition-colors hover:text-primary md:block">
+            Certificates
           </Link>
           <Link href="#education" className="hidden font-medium text-muted-foreground transition-colors hover:text-primary md:block">
             Education
