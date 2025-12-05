@@ -22,7 +22,7 @@ export function HeroSection() {
         />
       )}
       <h1 className="scroll-m-20 text-4xl font-extrabold tracking-tight text-primary lg:text-5xl">
-        Your Name
+        Rahul Kaushik L
       </h1>
       <p className="mx-auto mt-4 max-w-2xl text-lg text-muted-foreground md:text-xl">
         Passionate developer creating beautiful and functional web experiences. Welcome to my personal corner of the internet.
